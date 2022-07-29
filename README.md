@@ -16,8 +16,9 @@
 https://user-images.githubusercontent.com/102434280/181735292-52c07eaf-1744-499c-9f5f-ea8876c064b0.mp4
 <p>
 Using GANs I generated a total of <strong> 11,200 images </strong>.</br>
-<a src="https://drive.google.com/uc?export=download&id=1fAFPSOmLwk1HLXfV9k1ZgV10GvBytAmc">Dataset</a>
 </p>
+
+[Dataset](https://drive.google.com/uc?export=download&id=1fAFPSOmLwk1HLXfV9k1ZgV10GvBytAmc)
 
  ## How GANs works
  <img src="https://machinelearningmastery.com/wp-content/uploads/2019/04/Example-of-the-Generative-Adversarial-Network-Model-Architecture.png" >
